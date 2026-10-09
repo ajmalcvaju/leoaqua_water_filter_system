@@ -931,6 +931,39 @@ export const productsData = {
       { id: 'white', name: 'Pearl White', color: '#f8fafc', border: '#cbd5e1', imageSrc: '/product_vogue_grey.png' },
       { id: 'gold', name: 'Royal Gold', color: '#d97706', border: '#b45309', imageSrc: '/product_vogue_black.png' }
     ]
+  },
+  '130': {
+    id: '130',
+    slug: 'i-pure-water-purifier-ro-system',
+    title: 'i-Pure 5-Stage RO Water Purifier System',
+    category: 'domestic',
+    tag: '5-Stage RO System',
+    price: '₹11,000',
+    originalPrice: '₹15,000',
+    desc: 'Advanced 5-Stage Reverse Osmosis (RO) water purifier with 9L transparent storage tank, 15 LPH capacity, LED indicator, and auto cut-off power saver.',
+    fullDesc: 'i-Pure Water Purifier with Reverse Osmosis (RO) Filtration delivers pure, crystal-clear drinking water through an advanced 5-Stage Purification system. Engineered with an eye-catching royal blue transparent 9-litre storage tank, high-efficiency purification throughput of 15 litres per hour, intuitive LED status indicators, and an intelligent electricity power saver auto cut-off system with a heavy-duty chrome dispensing tap.',
+    specs: [
+      { label: 'Purification Technology', val: '5-Stage Reverse Osmosis (RO) System' },
+      { label: 'Storage Capacity', val: 'Food-Grade Tank Capacity up to 9 Litres' },
+      { label: 'Purification Rate', val: '15 Litres Per Hour (Model Dependent)' },
+      { label: 'Status Display', val: 'Built-in LED Indicator' },
+      { label: 'Power Management', val: 'Electricity Power Saver with Auto Cut-off' },
+      { label: 'Cabinet Design', val: 'Electric Blue Transparent Tank with Alpine White Body' },
+      { label: 'Dispenser Tap', val: 'Heavy-Duty Chrome Finish Dispensing Tap' }
+    ],
+    features: [
+      'Advanced 5-Stage Reverse Osmosis (RO) technology eliminates dissolved salts, micro-impurities & microbes',
+      'Vibrant transparent food-grade storage container with 9-Litre holding capacity for easy water level check',
+      'Fast filtration flow delivering up to 15 Litres per hour (model dependent)',
+      'Multi-color LED status indicators for real-time operation and tank monitoring',
+      'Intelligent electricity power saver function with automatic cut-off when the tank is full',
+      'Modern, compact wall-mountable and countertop-friendly cabinet design'
+    ],
+    applications: ['Home Kitchens', 'Residential Apartments', 'Villas & Homestays', 'Offices & Pantries'],
+    imageSrc: '/product_ipure_ro.png',
+    variants: [
+      { id: 'blue-white', name: 'Royal Blue & White', color: '#1d4ed8', border: '#cbd5e1', imageSrc: '/product_ipure_ro.png' }
+    ]
   }
 };
 
