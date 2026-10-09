@@ -892,6 +892,45 @@ export const productsData = {
       { id: 'white', name: 'Pure Alpine White Housing', color: '#f8fafc', border: '#cbd5e1', imageSrc: '/product_prefilter_housing_white.png' },
       { id: 'transparent', name: 'Crystal Clear Transparent Housing', color: '#e0f2fe', border: '#38bdf8', imageSrc: '/product_prefilter_housing_transparent.png' }
     ]
+  },
+  '129': {
+    id: '129',
+    slug: 'gseries-vogue-ro-water-purifier',
+    title: 'G-Series Vogue RO + In-Tank UV + UF + Copper + Alkaline Purifier',
+    category: 'domestic',
+    tag: 'In-Tank UV + Alkaline',
+    price: '₹13,000',
+    originalPrice: '₹17,500',
+    desc: 'Advanced Signature Collection RO purifier with In-Tank UV, UF, Copper, Alkaline minerals & TDS Control. 12L/14L tank options, handling input TDS up to 2,000 PPM.',
+    fullDesc: 'G-Series Vogue Signature Collection RO Water Purifier is a premium, high-efficiency domestic purification system engineered for modern households, apartments, and villas. Built with an advanced multi-stage purification sequence combining Reverse Osmosis (RO), continuous In-Tank UV sterilization, Ultrafiltration (UF), Active Copper Charge, Alkaline mineral fortification, and intelligent TDS Control. Designed to handle challenging raw water TDS up to 2,000 PPM, it delivers 10 to 15 Litres per hour of safe, sweet, and mineral-balanced drinking water. Available in 12-litre and 14-litre tank capacities with a food-grade Stainless Steel dispenser tap, smart digital display panel, and 4 premium color finishes: Midnight Black, Slate Grey, Pearl White, and Royal Gold.',
+    specs: [
+      { label: 'Purification Technology', val: 'RO + In-Tank UV + UF + Active Copper + Alkaline + TDS Control' },
+      { label: 'Storage Tank Capacity', val: 'Available in 12 Litres & 14 Litres Tank Options' },
+      { label: 'Input TDS Handling', val: 'Built to Manage High Input TDS up to 2,000 PPM' },
+      { label: 'Purification Flow Rate', val: '10 to 15 Litres / Hour' },
+      { label: 'Dispenser Tap', val: 'Heavy-Duty Food-Grade Stainless Steel (SS) Tap' },
+      { label: 'Available Colors', val: 'Midnight Black, Slate Grey, Pearl White, and Royal Gold' },
+      { label: 'Display & Control', val: 'Smart Digital Indicator Panel with Water Drop Status Glow' },
+      { label: 'Mineral & pH Balance', val: 'Alkaline Mineral Cartridge (Optimal pH 7.5 - 8.5)' }
+    ],
+    features: [
+      'Multi-Stage Purification combining RO, In-Tank UV LED, UF, Active Copper, Alkaline, and essential minerals',
+      'Continuous In-Tank UV sterilization keeps purified water 100% germ-free 24/7 inside the storage tank',
+      'Robust RO membrane handles severe borewell and municipal water with TDS levels up to 2,000 PPM',
+      'Available in generous 12-Litre and 14-Litre storage capacities for medium to large families',
+      'Active Copper Charge & Alkaline filter infuse vital immunity-boosting minerals and maintain balanced pH',
+      'Rapid purification throughput of 10 to 15 Litres per hour with intelligent power-saving auto cut-off',
+      'Designer Signature Collection cabinet with metallic accents, digital touch panel, and stainless steel tap',
+      'Available in 4 luxurious designer finishes: Midnight Black, Slate Grey, Pearl White, and Royal Gold'
+    ],
+    applications: ['Modern Home Kitchens', 'Residential Apartments', 'Luxury Villas', 'Offices & Executive Cabins'],
+    imageSrc: '/product_vogue_black.png',
+    variants: [
+      { id: 'black', name: 'Midnight Black', color: '#18181b', border: '#f59e0b', imageSrc: '/product_vogue_black.png' },
+      { id: 'grey', name: 'Slate Grey', color: '#64748b', border: '#0284c7', imageSrc: '/product_vogue_grey.png' },
+      { id: 'white', name: 'Pearl White', color: '#f8fafc', border: '#cbd5e1', imageSrc: '/product_vogue_grey.png' },
+      { id: 'gold', name: 'Royal Gold', color: '#d97706', border: '#b45309', imageSrc: '/product_vogue_black.png' }
+    ]
   }
 };
 
