@@ -193,59 +193,74 @@ export default function About() {
       </section>
 
       {/* ==========================================================================
-           LEOAQUA WATER FILTER SYSTEM BY NUMBERS
+           PROVEN TRACK RECORD - TRUSTED WATER SOLUTIONS ACROSS KERALA
            ========================================================================== */}
       <section className="section stats-numbers-section animate-on-scroll">
         <div className="container">
-          <div className="stats-numbers-header">
-            <span className="stats-numbers-dash">&#9679;</span>
-            <h2 className="stats-numbers-title">LEOAQUA WATER FILTER SYSTEM BY NUMBERS</h2>
-            <span className="stats-numbers-dash">&#9679;</span>
+          <div className="stats-track-header">
+            <span className="stats-track-pill">PROVEN TRACK RECORD</span>
+            <h2 className="stats-track-title">Trusted Water Solutions Across Kerala</h2>
+            <div className="stats-track-bar"></div>
           </div>
 
           <div className="stats-numbers-grid">
-            {/* Stat 1 */}
+            {/* Stat 1 - Commercial Projects */}
             <div className="stat-number-card">
               <div className="stat-icon-circle">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
-                  <rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/>
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <path d="M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z"/>
+                  <path d="M6 12H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2"/>
+                  <path d="M18 9h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2h-2"/>
+                  <path d="M10 6h4"/>
+                  <path d="M10 10h4"/>
+                  <path d="M10 14h4"/>
+                  <path d="M10 18h4"/>
                 </svg>
               </div>
-              <div className="stat-number"><CounterNumber target={25} /></div>
-              <div className="stat-label">Years of<br/>Experience</div>
+              <div className="stat-number"><CounterNumber target={1000} /></div>
+              <div className="stat-title-label">Commercial Projects</div>
+              <div className="stat-sub-label">Hotels, Hospitals & Offices</div>
             </div>
 
-            {/* Stat 2 */}
+            {/* Stat 2 - Residential Projects */}
             <div className="stat-number-card">
               <div className="stat-icon-circle">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
-                  <circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/>
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/>
+                  <polyline points="9 22 9 12 15 12 15 22"/>
                 </svg>
               </div>
-              <div className="stat-number"><CounterNumber target={2000} /></div>
-              <div className="stat-label">Projects<br/>Completed</div>
+              <div className="stat-number"><CounterNumber target={6900} /></div>
+              <div className="stat-title-label">Residential Projects</div>
+              <div className="stat-sub-label">Villas & Apartments</div>
             </div>
 
-            {/* Stat 3 */}
+            {/* Stat 3 - Happy Customers */}
             <div className="stat-number-card">
               <div className="stat-icon-circle">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
-                  <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/>
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/>
+                  <circle cx="9" cy="7" r="4"/>
+                  <path d="M23 21v-2a4 4 0 0 0-3-3.87"/>
+                  <path d="M16 3.13a4 4 0 0 1 0 7.75"/>
                 </svg>
               </div>
-              <div className="stat-number"><CounterNumber target={1750} /></div>
-              <div className="stat-label">Happy<br/>Clients</div>
+              <div className="stat-number"><CounterNumber target={12000} /></div>
+              <div className="stat-title-label">Happy Customers</div>
+              <div className="stat-sub-label">Trusted Across Kerala</div>
             </div>
 
-            {/* Stat 4 */}
+            {/* Stat 4 - Purity Guaranteed */}
             <div className="stat-number-card">
               <div className="stat-icon-circle">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
-                  <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.77 3.77z"/>
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+                  <polyline points="9 12 11 14 15 10"/>
                 </svg>
               </div>
-              <div className="stat-number"><CounterNumber target={750} /></div>
-              <div className="stat-label">AMC/O&M<br/>Clients</div>
+              <div className="stat-number">99.9%</div>
+              <div className="stat-title-label">Purity Guaranteed</div>
+              <div className="stat-sub-label">Certified Water Standards</div>
             </div>
           </div>
         </div>

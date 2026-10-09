@@ -964,6 +964,472 @@ export const productsData = {
     variants: [
       { id: 'blue-white', name: 'Royal Blue & White', color: '#1d4ed8', border: '#cbd5e1', imageSrc: '/product_ipure_ro.png' }
     ]
+  },
+  '131': {
+    id: '131',
+    slug: 'cloud-one-8-premium-black-ro-system',
+    title: 'Cloud One 8 Premium Black RO Water Purifier System',
+    category: 'domestic',
+    tag: '5-Stage RO System',
+    price: '₹12,000',
+    originalPrice: '₹16,500',
+    desc: 'Cloud One 8 Water Purifier with 5-Stage Reverse Osmosis (RO) filtration, 9L storage, 15 LPH capacity, smart LED indicators, and auto cut-off power saver.',
+    fullDesc: 'Cloud One 8 Premium Black Water Purifier with Reverse Osmosis (RO) Filtration delivers pure, crisp drinking water through an advanced 5-Stage Purification system. Encased in a luxurious obsidian black cabinet featuring a top showcase filter window, 9-litre food-grade storage capacity, 15 litres per hour purification throughput, smart LED status indicator panel, water level sight window, and an intelligent electricity power saver auto cut-off system.',
+    specs: [
+      { label: 'Purification Technology', val: '5-Stage Reverse Osmosis (RO) System' },
+      { label: 'Storage Capacity', val: 'Food-Grade Tank Capacity up to 9 Litres' },
+      { label: 'Purification Rate', val: '15 Litres Per Hour (Model Dependent)' },
+      { label: 'Status Display', val: 'Smart Central LED Indicator Panel' },
+      { label: 'Power Management', val: 'Electricity Power Saver with Auto Cut-off' },
+      { label: 'Cabinet Design', val: 'Premium Obsidian Black with Top Showcase Filter Window' },
+      { label: 'Dispenser Tap', val: 'Heavy-Duty Chrome Dispenser Tap with Water Gauge Window' }
+    ],
+    features: [
+      '5-Stage Reverse Osmosis (RO) filtration removes heavy dissolved solids, chlorine & microbiological pathogens',
+      'Premium architectural black chassis with top transparent cartridge showcase window',
+      'Generous 9-Litre food-grade storage container with front vertical water level viewing window',
+      'High-capacity purification flow of up to 15 Litres per hour (model dependent)',
+      'Smart central LED indicators for live system power and purification process status',
+      'Energy-saving automatic cut-off mechanism prevents overflow and minimizes power consumption'
+    ],
+    applications: ['Modern Home Kitchens', 'Residential Apartments', 'Luxury Villas', 'Offices & Pantries'],
+    imageSrc: '/product_cloud_one8_black.png',
+    variants: [
+      { id: 'black', name: 'Premium Obsidian Black', color: '#18181b', border: '#f59e0b', imageSrc: '/product_cloud_one8_black.png' },
+      { id: 'grey', name: 'Premium Matte Grey', color: '#64748b', border: '#0284c7', imageSrc: '/product_cloud_one8_grey.png' }
+    ]
+  },
+  '132': {
+    id: '132',
+    slug: 'cloud-one-8-premium-grey-ro-system',
+    title: 'Cloud One 8 Premium Grey RO Water Purifier System',
+    category: 'domestic',
+    tag: '5-Stage RO System',
+    price: '₹12,000',
+    originalPrice: '₹16,500',
+    desc: 'Cloud One 8 Water Purifier in stylish Matte Grey finish with 5-Stage RO filtration, 9L storage, 15 LPH flow rate, smart LED indicator, and auto cut-off.',
+    fullDesc: 'Cloud One 8 Premium Grey Water Purifier with Reverse Osmosis (RO) Filtration delivers pure, crisp drinking water through an advanced 5-Stage Purification system. Finished in an elegant contemporary matte grey chassis featuring a top showcase filter window, 9-litre food-grade storage capacity, 15 litres per hour purification throughput, smart central LED status indicator panel, water level sight window, and an intelligent electricity power saver auto cut-off system.',
+    specs: [
+      { label: 'Purification Technology', val: '5-Stage Reverse Osmosis (RO) System' },
+      { label: 'Storage Capacity', val: 'Food-Grade Tank Capacity up to 9 Litres' },
+      { label: 'Purification Rate', val: '15 Litres Per Hour (Model Dependent)' },
+      { label: 'Status Display', val: 'Smart Central LED Indicator Panel' },
+      { label: 'Power Management', val: 'Electricity Power Saver with Auto Cut-off' },
+      { label: 'Cabinet Design', val: 'Contemporary Matte Grey with Top Showcase Filter Window' },
+      { label: 'Dispenser Tap', val: 'Heavy-Duty Black Dispenser Tap with Water Gauge Window' }
+    ],
+    features: [
+      '5-Stage Reverse Osmosis (RO) filtration removes heavy dissolved solids, chlorine & microbiological pathogens',
+      'Contemporary matte grey cabinet with top transparent cartridge showcase window',
+      'Generous 9-Litre food-grade storage container with front vertical water level viewing window',
+      'High-capacity purification flow of up to 15 Litres per hour (model dependent)',
+      'Smart central LED indicators for live system power and purification process status',
+      'Energy-saving automatic cut-off mechanism prevents overflow and minimizes power consumption'
+    ],
+    applications: ['Modern Home Kitchens', 'Residential Apartments', 'Luxury Villas', 'Offices & Pantries'],
+    imageSrc: '/product_cloud_one8_grey.png',
+    variants: [
+      { id: 'grey', name: 'Premium Matte Grey', color: '#64748b', border: '#0284c7', imageSrc: '/product_cloud_one8_grey.png' },
+      { id: 'black', name: 'Premium Obsidian Black', color: '#18181b', border: '#f59e0b', imageSrc: '/product_cloud_one8_black.png' }
+    ]
+  },
+  '133': {
+    id: '133',
+    slug: 'olivar-s1-smart-water-purifier-wifi-iot',
+    title: 'OLIVAR S1 Smart Water Purifier (Wi-Fi & Mobile App)',
+    category: 'domestic',
+    tag: 'Smart Wi-Fi Purifier',
+    price: '₹18,900',
+    originalPrice: '₹24,900',
+    desc: 'Next-gen smart IoT RO water purifier with Wi-Fi connectivity, mobile app filter life tracking, circular halo LED display & auto cut-off.',
+    fullDesc: 'OLIVAR S1 Smart Water Purifier ("Always Pure. Always Connected.") by Olivar International combines cutting-edge water purification science with smart IoT technology. Featuring built-in Wi-Fi connectivity with real-time smartphone app monitoring for cartridge health, TDS levels, and filter replacement alerts. Equipped with an iconic illuminated circular halo LED diagnostic dashboard ("S1"), auto power-saver cut-off, heavy-duty leak-proof dispenser faucet, and available in three designer luxury finishes: Panther Black, Stealth Grey, and Cosmic Orange.',
+    specs: [
+      { label: 'Smart Connectivity', val: 'Built-in Wi-Fi & Real-Time Mobile App Integration' },
+      { label: 'Smart App Features', val: 'Filter Life Tracking, Water Quality Metrics, Service Alerts' },
+      { label: 'Display Panel', val: 'Interactive Circular Halo Neon Blue LED Diagnostic Ring (S1)' },
+      { label: 'Purification Technology', val: 'Advanced Multi-Stage RO + UV/UF + Mineral Enrichment' },
+      { label: 'Power Management', val: 'Smart Electricity Power Saver with Auto Cut-off' },
+      { label: 'Color Editions', val: 'Panther Black, Stealth Grey & Cosmic Orange' },
+      { label: 'Dispenser Faucet', val: 'Front Heavy-Duty Push Dispensing Tap' },
+      { label: 'Compatibility', val: 'Handles High TDS Borewell, Tanker & Municipal Water' }
+    ],
+    features: [
+      'Smart Wi-Fi connectivity connects directly to your iOS / Android phone for 24/7 water quality & cartridge status tracking',
+      'Dedicated mobile app displays live filter health percentages, water purity metrics, and maintenance schedules',
+      'Futuristic circular halo LED display with glowing blue ambient status ring and intuitive system diagnostics',
+      'Advanced multi-stage RO filtration removes heavy dissolved solids, chemical pesticides, bacteria & viruses',
+      'Intelligent power-saver auto cut-off saves electricity and prevents tank overflow',
+      'Available in 3 stunning architectural finishes: Panther Black, Stealth Grey, and Cosmic Orange'
+    ],
+    applications: ['Smart Homes & Connected Kitchens', 'Luxury Apartments', 'Modern Designer Villas', 'Corporate Pantries'],
+    imageSrc: '/product_olivar_s1_banner.png',
+    variants: [
+      { id: 'black', name: 'Panther Black', color: '#18181b', border: '#38bdf8', imageSrc: '/product_olivar_s1_black.png' },
+      { id: 'orange', name: 'Cosmic Orange', color: '#c2410c', border: '#f97316', imageSrc: '/product_olivar_s1_orange.png' },
+      { id: 'grey', name: 'Stealth Grey', color: '#475569', border: '#94a3b8', imageSrc: '/product_olivar_s1_stealth_grey.png' },
+      { id: 'banner', name: 'All Editions Showcase', color: '#0f172a', border: '#38bdf8', imageSrc: '/product_olivar_s1_banner.png' }
+    ]
+  },
+  '134': {
+    id: '134',
+    slug: 'clyde-acquetta-undersink-ro-uf-alkaline-purifier',
+    title: 'Clyde Acquetta Under Sink RO + UF + Alkaline Water Purifier',
+    category: 'domestic',
+    tag: 'Under Sink Concealed',
+    price: '₹16,000',
+    originalPrice: '₹21,000',
+    desc: 'Premium Under Sink RO purifier by Acquetta with Pre-Filter + RO + UF + Alkaline stages, 10L pressure tank, screw-less cabinet & TDS adjuster.',
+    fullDesc: 'Clyde Acquetta Under Sink Water Purifier (a product of ABH RO) is engineered for modern, clutter-free kitchens. Built with a sleek, completely screw-less cabinet design that fits discreetly beneath kitchen countertops. Features comprehensive Pre-Filter / RO / UF / ALKALINE multi-stage purification, a high-capacity 10-Litre hydro-pneumatic pressurized storage tank, normal inline filter & membrane housing, digital Power ON & Tank Full indication, unique TDS adjuster, and an elegant countertop goose-neck faucet.',
+    specs: [
+      { label: 'Installation Type', val: 'Under-The-Sink (Concealed Countertop Mounting)' },
+      { label: 'Purification Technology', val: 'Pre-Filter + RO + UF + Alkaline Multi-Stage Purification' },
+      { label: 'Storage Tank', val: '10 Litres Hydro-Pneumatic Pressure Tank' },
+      { label: 'Cabinet Design', val: 'Completely Screw-Less Compact Cabinet' },
+      { label: 'TDS Management', val: 'Unique Built-in TDS Adjuster' },
+      { label: 'Indicators', val: 'Digital Power On & Tank Full Indication' },
+      { label: 'Housing System', val: 'Normal Inline Filter & Membrane Housing' },
+      { label: 'Faucet Type', val: 'Goose-neck Countertop Dispenser Tap' }
+    ],
+    features: [
+      'Concealed under-sink installation maintains clean countertops and modern kitchen aesthetics',
+      'Advanced Pre-Filter + RO + UF + Alkaline multi-stage purification delivers pure, mineral-rich, alkaline water',
+      'High-capacity 10-Litre hydro-pneumatic pressurized storage tank guarantees steady, high-velocity water flow',
+      'Unique built-in TDS Adjuster allows precise control over essential mineral retention',
+      'Completely screw-less aesthetic cabinet ensures durability, easy servicing, and a clean finish',
+      'Digital LED indicators for live Power On and Tank Full status monitoring'
+    ],
+    applications: ['Modern Modular Kitchens', 'Island Counters & Sinks', 'Luxury Villas & Apartments', 'Executive Pantries'],
+    imageSrc: '/product_clyde_acquetta_undersink_banner.png',
+    variants: [
+      { id: 'banner', name: 'Specification Overview', color: '#c2410c', border: '#ea580c', imageSrc: '/product_clyde_acquetta_undersink_banner.png' },
+      { id: 'cabinet', name: 'Cabinet & Tank Setup', color: '#18181b', border: '#38bdf8', imageSrc: '/product_clyde_acquetta_undersink.png' }
+    ]
+  },
+  '135': {
+    id: '135',
+    slug: 'nexus-dispense-pro-hot-normal-water-purifier-vegetable-fruits',
+    title: 'Nexus Dispense Pro Hot & Normal Purifier + Vegetable & Fruit Cleaner',
+    category: 'domestic',
+    tag: 'Hot & Normal + Ozone Detox',
+    price: '₹29,000',
+    originalPrice: '₹35,900',
+    desc: 'Dual-temp (Hot & Normal) RO water dispenser with built-in Ozone vegetable & fruit detoxifier, smart LED panel & stainless steel drip tray.',
+    fullDesc: 'Nexus Series Dispense Pro is a multi-functional culinary water dispensing powerhouse. Combines Instant Hot & Ambient Normal purified drinking water with a specialized built-in Vegetable & Fruit Ozone Purifier. Uses cutting-edge Ozone Technology to sterilize, oxidize chemicals, remove pesticides, and clean fresh produce without requiring any consumables. Features dual push dispensing taps (Red for Hot, Blue for Normal), smart illuminated LED status indicators (Hot, Power, Normal), side master toggle switch, and a heavy-duty stainless steel perforated drip tray.',
+    specs: [
+      { label: 'Water Dispensing', val: 'Dual Temperature: Instant Hot Water & Ambient Normal Water' },
+      { label: 'Detox Technology', val: 'Built-in Ozone Technology for Vegetables & Fruits Purification' },
+      { label: 'Consumables Required', val: 'Zero Consumables / Chemical-Free Ozone Sterilization' },
+      { label: 'Status Display', val: 'Smart LED Indicators (Hot, Power, Normal)' },
+      { label: 'Dispenser Taps', val: 'Twin Ergonomic Push-Down Taps (Color-Coded Red & Blue)' },
+      { label: 'Drip Tray', val: 'Perforated Stainless Steel Detachable Drip Tray' },
+      { label: 'Cabinet Finish', val: 'Glossy Piano Black Front Visor with Arctic White Body' },
+      { label: 'Certification', val: 'ISI Certified Component Architecture' }
+    ],
+    features: [
+      'Twin-temperature dispenser provides instant steaming hot water for teas/infusions and normal ambient water on demand',
+      'Integrated Ozone detoxifier purifies fruits & vegetables by breaking down insecticides, bacteria, and surface toxins',
+      'No consumables required — utilizes pure dissolved ozone gas to sterilize foods and eliminate odor naturally',
+      'Smart LED display shows real-time Power, Hot Water heating, and Normal purification readiness',
+      'Includes premium perforated stainless steel drip tray for easy cleaning and cup placement',
+      'Dual safety-engineered push taps prevent accidental boiling water burns in family homes'
+    ],
+    applications: ['Modern Modular Kitchens', 'Health-Conscious Homes', 'Chef Pantries & Cafes', 'Executive Corporate Dining'],
+    imageSrc: '/product_nexus_dispense_pro_banner.png',
+    variants: [
+      { id: 'banner', name: 'Product Banner & Specs', color: '#0284c7', border: '#38bdf8', imageSrc: '/product_nexus_dispense_pro_banner.png' },
+      { id: 'device', name: 'Dispenser View', color: '#18181b', border: '#ef4444', imageSrc: '/product_nexus_dispense_pro.png' }
+    ]
+  },
+  '136': {
+    id: '136',
+    slug: 'krystal-wave-digital-25l-ro-uv-uf-alkaline-purifier',
+    title: 'Krystal Wave Digital 25 Litres RO + UV + UF + Alkaline Purifier',
+    category: 'domestic',
+    tag: '25L Jumbo Storage',
+    price: '₹14,500',
+    originalPrice: '₹19,500',
+    desc: 'Heavy-capacity 25L transparent water purifier with RO + UV + UF + Alkaline multi-stage purification, Krystal Digital display & copper cartridges.',
+    fullDesc: 'Krystal Wave Digital (Model SH0594) delivers an exceptional 25-Litre jumbo multi-stage storage capacity, tailored for large families, commercial pantries, and residences with high hydration demands. Features full transparent showcase housing revealing internal inline filters, dual copper/mineral cartridges, and high-efficiency RO booster pump. Equipped with RO + UV + UF + ALKALINE advanced purification stages, a star-crested central illuminated digital diagnostic dashboard, chrome dispenser tap, and ISI quality certification.',
+    specs: [
+      { label: 'Storage Capacity', val: '25 Litres Jumbo Multi-Stage Tank' },
+      { label: 'Purification Technology', val: 'RO + UV + UF + Alkaline Advanced Purification' },
+      { label: 'Digital Display', val: 'Krystal Digital Smart Display Visor with LED Diagnostics' },
+      { label: 'Mineral Enrichment', val: 'Alkaline Mineral & Dual Copper Cartridge Infusion' },
+      { label: 'Cabinet Design', val: 'Full Transparent Dual-Compartment Showcase Hood' },
+      { label: 'Dispenser Faucet', val: 'Heavy-Duty Metallic Chrome Tap' },
+      { label: 'Quality Certification', val: 'ISI Certified & 25 Years Manufacturing Excellence' },
+      { label: 'Source Compatibility', val: 'Handles High TDS Borewell, Tanker & Municipal Water' }
+    ],
+    features: [
+      'Massive 25-Litre food-grade storage tank eliminates water shortages for large families and offices',
+      'Advanced 4-in-1 RO + UV + UF + Alkaline purification neutralizes dissolved solids, cysts, microbes & chemicals',
+      'Dual copper and alkaline mineralization restores healthy alkaline pH and vital micro-nutrients',
+      'Full transparent hood offers complete visual transparency of internal filtration cartridges',
+      'Krystal Digital star-crested center LED display provides live operational and process monitoring',
+      'Premium heavy chrome metallic faucet for smooth, high-flow dispensing'
+    ],
+    applications: ['Large Joint Families', 'Villas & Bungalows', 'Small Commercial Offices', 'Hostels & Clinic Pantries'],
+    imageSrc: '/product_krystal_wave_25l.png',
+    variants: [
+      { id: 'appliance', name: '25L Purifier Showcase', color: '#18181b', border: '#f59e0b', imageSrc: '/product_krystal_wave_25l.png' },
+      { id: 'features', name: 'Certified Specifications', color: '#0284c7', border: '#38bdf8', imageSrc: '/product_krystal_wave_25l_features.png' }
+    ]
+  },
+  '137': {
+    id: '137',
+    slug: 'krrystal-wave-ro-uv-uf-alk-water-purifier-white',
+    title: 'Krrystal Wave RO + UV + UF + ALK Water Purifier (White)',
+    category: 'domestic',
+    tag: 'RO UV UF ALK Series',
+    price: '₹14,500',
+    originalPrice: '₹19,500',
+    desc: 'Crisp Arctic White aesthetic with transparent blue hood, RO + UV + UF + Alkaline purification, copper mineralization & 25 years trusted excellence.',
+    fullDesc: 'Krrystal Wave ("Always Pure Water") delivers comprehensive RO + UV + UF + ALK (Alkaline) multi-stage purification encased in a modern Arctic White body paired with an ocean blue transparent cartridge canopy. Engineered with advanced Reverse Osmosis, in-line UV sterilizer, ultrafiltration, and dual copper/alkaline mineralization. Built with a smart circular central process badge, vertical status indicator panel, heavy-duty chrome dispenser tap with blue accent lever, and ISI certification backed by 25 years of manufacturing excellence.',
+    specs: [
+      { label: 'Purification Technology', val: 'RO + UV + UF + ALK (Alkaline & Mineral Enrichment)' },
+      { label: 'Mineralization', val: 'Active Copper & Alkaline Mineral Balance' },
+      { label: 'Cabinet Design', val: 'Arctic White Solid Tank with Ocean Blue Transparent Top Canopy' },
+      { label: 'Display & Operation', val: 'Smart Central Circular Badge & Vertical LED Status Panel' },
+      { label: 'Dispenser Faucet', val: 'Heavy-Duty Metallic Chrome Tap with Blue Accent Lever' },
+      { label: 'Certification', val: 'ISI Certified & 25 Years Manufacturing Excellence' },
+      { label: 'Source Compatibility', val: 'Borewell, Tanker & Municipal Water (Up to 2,000+ PPM TDS)' }
+    ],
+    features: [
+      'Comprehensive RO + UV + UF + ALK process eliminates dissolved chemical salts, heavy metals & biological pathogens',
+      'Infuses water with active copper and alkaline minerals to balance pH and boost immune wellness',
+      'Dual design: Arctic White lower storage cabinet with ocean-tinted transparent upper cartridge showcase',
+      'Smart central circular badge and vertical LED diagnostics display system readiness',
+      'Heavy-duty metallic chrome tap ensures high flow rate and long leak-free service life',
+      '25 Years Trusted Quality hallmark ensures industrial-grade components and durability'
+    ],
+    applications: ['Modern Modular Kitchens', 'Residential Apartments', 'Independent Houses & Villas', 'Office Pantries'],
+    imageSrc: '/product_krrystal_wave_white.png',
+    variants: [
+      { id: 'white', name: 'Krrystal Wave White & Blue', color: '#0284c7', border: '#38bdf8', imageSrc: '/product_krrystal_wave_white.png' },
+      { id: 'features', name: 'Certified Specifications', color: '#1e3a8a', border: '#60a5fa', imageSrc: '/product_krystal_wave_25l_features.png' }
+    ]
+  },
+  '138': {
+    id: '138',
+    slug: 'krystal-auto-tds-25l-ro-uv-uf-alkaline-purifier',
+    title: 'Krystal Auto TDS 25 Litres RO + UV + UF + Alkaline Purifier',
+    category: 'domestic',
+    tag: 'Auto TDS + Digital Monitor',
+    price: '₹14,500',
+    originalPrice: '₹19,500',
+    desc: '25L jumbo capacity purifier with Auto TDS controller, smart digital LED display screen, full transparent ocean blue body & copper mineralization.',
+    fullDesc: 'Krystal Auto TDS 25 Litres Purifier delivers advanced automated TDS management alongside high-capacity drinking water purification. Encased in a stunning ocean blue full transparent showcase body with 25L multi-stage storage. Equipped with intelligent Auto TDS balancing, digital LED screen with numeric TDS & operational readouts, multi-stage RO + UV + UF + Alkaline filtration, dual copper cartridges, and heavy chrome dispensing faucet. Built to ISI quality standards with 25 years of proven reliability.',
+    specs: [
+      { label: 'Storage Capacity', val: '25 Litres Jumbo Multi-Stage Storage Tank' },
+      { label: 'TDS Management', val: 'Intelligent Krystal Auto TDS System' },
+      { label: 'Digital Display', val: 'Smart Digital LED Screen with Live Diagnostic Readouts' },
+      { label: 'Purification Stages', val: 'RO + UV + UF + Alkaline Advanced Purification' },
+      { label: 'Mineral Infusion', val: 'Active Copper Cartridges & Alkaline Guard' },
+      { label: 'Cabinet Design', val: 'Full Ocean Blue Transparent Showcase Hood & Tank' },
+      { label: 'Dispenser Tap', val: 'Heavy-Duty Metallic Chrome Faucet' },
+      { label: 'Quality Certification', val: 'ISI Certified & 25 Years Manufacturing Excellence' }
+    ],
+    features: [
+      'Automatic TDS Controller dynamically balances natural essential minerals for optimal taste and health',
+      'Smart Digital LED Display shows live operational status and numeric TDS diagnostic readings',
+      'Massive 25-Litre jumbo food-grade tank meets high-volume hydration demands without running out',
+      'Full transparent ocean blue body provides complete visibility of internal purification cartridges and components',
+      'Dual copper and alkaline mineralization raises drinking water pH and boosts natural immunity',
+      'Heavy-duty metallic chrome tap engineered for continuous high-flow dispensing'
+    ],
+    applications: ['Large Families & Residences', 'Corporate Pantries & Clinics', 'Hostels & Mess Halls', 'High TDS Well & Tanker Water'],
+    imageSrc: '/product_krystal_auto_tds_25l_blue.png',
+    variants: [
+      { id: 'blue', name: 'Ocean Blue Transparent 25L', color: '#0284c7', border: '#38bdf8', imageSrc: '/product_krystal_auto_tds_25l_blue.png' },
+      { id: 'features', name: 'Certified Specifications', color: '#1e3a8a', border: '#60a5fa', imageSrc: '/product_krystal_wave_25l_features.png' }
+    ]
+  },
+  '139': {
+    id: '139',
+    slug: 'sarwans-wave-next-gen-kraft-hot-normal-water-purifier',
+    title: "Sarwan's Wave Next Gen Kraft Hot & Normal Water Purifier",
+    category: 'domestic',
+    tag: 'Hot & Normal + Inbuilt Pre-Filter',
+    price: '₹18,000',
+    originalPrice: '₹24,500',
+    desc: 'Next Gen Kraft purifier with instant Hot & Normal dispensing, RO + UV + UF + Alkaline purification, 10L tank & revolutionary inbuilt pre-filter concept.',
+    fullDesc: "Sarwan's Wave Next Gen Kraft Water Purifier (\"Pure Innovation. Perfect Purity.\") by Abhi RO brings advanced multi-temperature water purification to modern homes. Features dual dispensing taps for Instant Hot Water (ideal for green tea, coffee & baby formula) and ambient Normal Water. Powered by 100% genuine RO + UV + UF + ALKALINE multi-stage purification, a 10-Litre food-grade storage tank, smart digital display with advanced process indicators, illuminated neon blue water level sight window, and an innovative concealed Inbuilt Pre-Filter Concept that eliminates clumsy external hanging bowls.",
+    specs: [
+      { label: 'Water Dispensing', val: 'Dual Temperature: Instant Hot Water & Ambient Normal Water' },
+      { label: 'Purification Technology', val: 'Advanced RO + UV + UF + Alkaline Multi-Stage Purification' },
+      { label: 'Pre-Filter System', val: 'Revolutionary Inbuilt Pre-Filter Concept (Hidden inside lower base)' },
+      { label: 'Storage Capacity', val: '10 Litres Food-Grade Antibacterial Storage Tank' },
+      { label: 'Digital System', val: 'Smart Top LED Display with Advanced Process Indicators (RO, Alkaline, UV)' },
+      { label: 'Hot Water Safety', val: 'Dedicated Red Push Button with Safety Hot Dispense Nozzle' },
+      { label: 'Normal Dispenser', val: 'Rose Gold & Glossy Black Push-Down Paddle Lever' },
+      { label: 'Cabinet Finish', val: 'Sculpted Arctic White with Krafting Perfection Blue Window' }
+    ],
+    features: [
+      'Dual hot and normal dispensing gives instant boiling hot water on demand with a safe push button',
+      'Revolutionary Inbuilt Pre-Filter concept houses the spun candle inside the unit — zero external wall hanging bowls required',
+      'Complete multi-stage RO + UV + UF + Alkaline system ensures 99.9% removal of dissolved salts, microbes & chemical impurities',
+      'Active Alkaline mineral cartridge balances pH and enhances hydration and water sweetness',
+      'Smart digital panel displays live system diagnostics for RO membrane, Alkaline infusion, and UV sterilization',
+      'High-grade 10-Litre internal tank with glowing blue water level visibility window'
+    ],
+    applications: ['Modern Modular Kitchens', 'Smart Homes & Luxury Apartments', 'Executive Pantries', 'Doctor Clinics & Boardrooms'],
+    imageSrc: '/product_sarwans_kraft_hot_normal_banner.png',
+    variants: [
+      { id: 'banner', name: 'Product Banner & Specs', color: '#0284c7', border: '#38bdf8', imageSrc: '/product_sarwans_kraft_hot_normal_banner.png' },
+      { id: 'appliance', name: 'Appliance Front View', color: '#18181b', border: '#b45309', imageSrc: '/product_sarwans_kraft_hot_normal.png' }
+    ]
+  },
+  '140': {
+    id: '140',
+    slug: 'leoaqua-frp-sediment-filter-system',
+    title: 'LeoAqua Whole-House FRP Sediment Sand & Multi-Media Filter',
+    category: 'filters',
+    tag: 'Whole-House Filtration',
+    price: '₹25,000',
+    originalPrice: '₹32,000',
+    desc: 'Heavy-duty whole-house FRP multi-media sand & sediment filter vessel with top multiport valve for complete suspended solids, mud & turbidity removal.',
+    fullDesc: 'LeoAqua Whole-House FRP Sediment Filter System is engineered to protect complete residential homes, villas, and commercial properties from heavy suspended solids, mud, silt, algae, and turbidity. Built with an industrial-grade structural composite FRP pressure vessel, high-purity graded quartz sand & multi-media filtration bed, and a top-mounted manual multiport control valve with bypass arrangement for effortless backwashing, rinsing, and daily service filtration.',
+    specs: [
+      { label: 'Filter Media', val: 'Graded Quartz Sand & High-Density Multi-Media Bed' },
+      { label: 'Pressure Vessel', val: 'Industrial Structural FRP (Fiber Reinforced Polymer) Tank' },
+      { label: 'Control Valve', val: 'Top-Mounted Heavy Multiport Valve (Filter, Backwash, Rinse)' },
+      { label: 'Flow Rate', val: '1,500 - 2,500 LPH High-Flow Whole-House Continuous Delivery' },
+      { label: 'Target Impurities', val: 'Mud, Silt, Algae, Rust Flakes & Suspended Particulates' },
+      { label: 'Plumbing Integration', val: 'Heavy-Duty UPVC Bypass Pipe Line Assembly' },
+      { label: 'Application Scale', val: 'Complete Villa / Apartment Overhead Tank Main Line' },
+      { label: 'Maintenance Routine', val: 'Quick 5-Minute Periodic Manual Backwash Cycle' }
+    ],
+    features: [
+      'Protects entire plumbing network, overhead storage tanks, geysers, washing machines & sanitary fittings from mud build-up',
+      'High-capacity graded silica sand & multi-media bed traps fine suspended dirt down to micro levels',
+      'Heavy-duty composite FRP structural vessel is 100% rust-proof and weather-resistant for outdoor installations',
+      'Top-mounted multiport valve allows quick manual backwash to flush out accumulated dirt in minutes',
+      'Ensures crystal-clear water for bathing, washing clothes, kitchen chores, and household usage'
+    ],
+    applications: ['Independent Villas & Bungalows', 'Residential Apartments', 'Borewell & Well Water Supply Lines', 'Commercial Kitchens & Laundries'],
+    imageSrc: '/product_frp_sediment_filter.png'
+  },
+  '141': {
+    id: '141',
+    slug: 'leoaqua-frp-iron-removal-filter-system',
+    title: 'LeoAqua Whole-House FRP Iron Removal Filter System',
+    category: 'filters',
+    tag: 'Iron & Manganese Removal',
+    price: '₹25,000',
+    originalPrice: '₹32,000',
+    desc: 'Heavy-duty FRP iron removal filter with catalytic manganese dioxide media for red/yellow water, metallic taste & rust stain elimination.',
+    fullDesc: 'LeoAqua Whole-House FRP Iron Removal Filter System is specifically engineered to treat high dissolved iron and manganese content commonly found in deep borewell and open well water across Kerala. Utilizing specialized catalytic manganese dioxide oxidization media bed inside a corrosion-proof composite FRP pressure tank. Equipped with a top-mounted 3-way multiport valve for regular backwash and rinse, completely eliminating yellowish water, metallic odors, and reddish rust stains on tiles, bathroom fixtures, and clothes.',
+    specs: [
+      { label: 'Filter Media', val: 'Catalytic Manganese Dioxide & Iron Oxidation Media Bed' },
+      { label: 'Pressure Vessel', val: 'High-Strength Corrosion-Proof FRP Pressure Tank' },
+      { label: 'Control Valve', val: 'Top-Mounted Multiport Valve (Filter, Backwash, Fast Rinse)' },
+      { label: 'Flow Rate', val: '1,500 - 2,500 LPH High-Flow Whole-House Output' },
+      { label: 'Target Contaminants', val: 'Dissolved Ferrous Iron, Yellow Water, Manganese & Rust' },
+      { label: 'Stain Prevention', val: 'Eliminates Yellow Staining on Sanitaryware & Clothes' },
+      { label: 'Installation', val: 'Outdoor / Motor Pump Discharge Line with UPVC Bypass' },
+      { label: 'Maintenance', val: 'Regular Backwash to Flush Oxidized Iron Precipitate' }
+    ],
+    features: [
+      'Eliminates dissolved iron, yellow-tinted water, and foul metallic odor right at the main intake line',
+      'Prevents persistent yellow/brown rust stains on bathroom tiles, sanitary fixtures, and white clothes',
+      'Protects piping lines, solar water heaters, geysers, and appliances from internal iron scaling',
+      'High-grade catalytic manganese dioxide media bed provides durable and long-lasting iron oxidation',
+      'Simple lever operation on multiport valve for quick, effortless backwash and rinse routines'
+    ],
+    applications: ['High Iron Borewells & Open Wells', 'Homes & Villas with Yellow Water', 'Hotels, Resorts & Homestays', 'Commercial Laundries'],
+    imageSrc: '/product_frp_iron_remover.png'
+  },
+  '142': {
+    id: '142',
+    slug: 'leoaqua-frp-activated-carbon-filter-system',
+    title: 'LeoAqua Whole-House FRP Activated Carbon Filter System',
+    category: 'filters',
+    tag: 'Odor & Chemical Removal',
+    price: '₹25,000',
+    originalPrice: '₹32,000',
+    desc: 'Whole-house FRP activated carbon filter vessel for complete adsorption of foul odor, organic pesticides, excess chlorine & bad taste.',
+    fullDesc: 'LeoAqua Whole-House FRP Activated Carbon Filter System provides whole-property adsorption of free chlorine, dissolved organic matter, unpleasant odors, foul well smells, and pesticides. Constructed with high-iodine premium granular activated carbon (GAC) inside a high-strength composite FRP cylinder. Features an easy-to-use top multiport control valve with UPVC bypass piping, delivering fresh, sweet-smelling, chemical-free crystal water to every tap in your house.',
+    specs: [
+      { label: 'Filter Media', val: 'High-Iodine Premium Granular Activated Carbon (GAC)' },
+      { label: 'Pressure Vessel', val: 'Heavy-Duty Structural FRP Cylinder with Base Stand' },
+      { label: 'Control Valve', val: 'Top-Mounted Multiport Valve (Filter, Backwash, Rinse)' },
+      { label: 'Flow Rate', val: '1,500 - 2,500 LPH Whole-Property Flow' },
+      { label: 'Target Impurities', val: 'Foul Well Odors, Chlorine, Organic Chemicals & Off-Taste' },
+      { label: 'Water Quality', val: 'Delivers Fresh, Neutral, Odorless & Clear Water' },
+      { label: 'Plumbing Setup', val: 'UPVC Piping with Bypass & Isolation Valves' },
+      { label: 'Maintenance', val: 'Periodic Backwash for Bed Decompaction' }
+    ],
+    features: [
+      'Adsorbs unpleasant foul well smell, sewage gas contamination, chlorine & volatile organic chemicals',
+      'Restores fresh, pleasant taste and crystal clarity to municipal, borewell & lake supply water',
+      'Prevents skin and eye irritation caused by excessive chemical treatment and organic decay',
+      'High-iodine activated carbon offers immense porous surface area for superior chemical capture',
+      'Rugged outdoor-rated FRP composite vessel built to withstand tropical weather and pressure surges'
+    ],
+    applications: ['Wells & Borewells with Foul Odor', 'Chlorinated Municipal Supply Lines', 'Apartments & Gated Communities', 'Hotels & Food Services'],
+    imageSrc: '/product_frp_carbon_filter.png'
+  },
+  '143': {
+    id: '143',
+    slug: 'nexus-series-25-lph-commercial-ro-plant',
+    title: 'Nexus Series 25 LPH Compact Commercial RO Plant',
+    category: 'plants',
+    tag: '25 LPH Commercial Skid',
+    price: '₹22,000',
+    originalPrice: '₹28,500',
+    desc: 'Heavy-duty 25 Litres/Hour commercial RO plant on powder-coated skid frame with pressure gauge, dual ON/OFF controls & triple jumbo pre-filters.',
+    fullDesc: 'Nexus Series 25 LPH Commercial RO Plant is a robust, space-saving water purification system engineered for high daily consumption in offices, cafes, clinics, hostels, and restaurants. Built on a heavy-duty powder-coated steel skid frame, featuring a high-pressure commercial booster pump, analog liquid-filled pump pressure gauge, dual industrial ON/OFF toggle push buttons, high-rejection 100/150 GPD commercial RO membrane housings, and a triple 10-inch jumbo pre-filter array (CTO Carbon Block, GAC Granular Activated Carbon, and PPF Polypropylene Spun Sediment Filter). Fully ISI certified for continuous commercial operation.',
+    specs: [
+      { label: 'Purification Flow Rate', val: '25 Litres Per Hour (25 LPH Output)' },
+      { label: 'Pre-Filter Array', val: 'Triple Heavy Housing: CTO (Carbon Block) + GAC (Activated Carbon) + PPF (Spun Sediment)' },
+      { label: 'Pressure Monitoring', val: 'Analog High-Precision Liquid-Filled Pump Pressure Gauge' },
+      { label: 'Control Panel', val: 'Dual Industrial Master Push Buttons (Green ON / Red OFF)' },
+      { label: 'Frame Structure', val: 'Heavy-Duty Powder-Coated Metal Skid Stand with Rubber Feet' },
+      { label: 'Certification', val: 'ISI Certified Commercial Component Architecture' },
+      { label: 'Membrane System', val: 'High-Rejection Commercial Grade RO Membranes' },
+      { label: 'Suitability', val: 'Handles High TDS Borewell, Municipal & Tanker Water' }
+    ],
+    features: [
+      'Delivers reliable 25 Litres per hour purified output for continuous commercial drinking water supply',
+      'Integrated analog pressure gauge provides live monitoring of membrane booster pump operating pressure',
+      'Triple-stage pre-filtration with PPF, GAC, and CTO cartridges intercepts mud, rust, chlorine, odors & chemicals',
+      'Heavy-duty industrial ON/OFF push-button switches for convenient, safe operator control',
+      'Free-standing skid frame design allows effortless placement on countertops, utility slabs, or wall brackets',
+      'ISI certified components engineered for long operating hours and minimal maintenance downtime'
+    ],
+    applications: ['Offices & Corporate Pantries', 'Cafes, Restaurants & Juice Bars', 'Hospitals, Clinics & Labs', 'Hostels, Schools & Daycares'],
+    imageSrc: '/product_nexus_commercial_ro_25lph.png'
+  },
+  '144': {
+    id: '144',
+    slug: 'alupro-active-copper-ro-uv-water-purifier',
+    title: 'Alupro Active Copper RO + UV + TDS Water Purifier',
+    category: 'domestic',
+    tag: 'Active Copper + UV Filter',
+    price: '₹13,900',
+    originalPrice: '₹18,500',
+    desc: 'Designer Arctic White & Snowflake Blue RO purifier with 3-in-1 Active Copper technology, in-line UV sterilizer, TDS controller, pH balancer & LED panel.',
+    fullDesc: 'Alupro Active Copper Water Purifier ("Blue Filtration Waterfall System") is engineered with modern aesthetics and advanced hydration science. Encased in an eye-catching Arctic White cabinet adorned with frosty snowflake decals, a transparent upper canopy with futuristic chevron accents, and clear cartridge visibility. Features 3-in-1 Active Copper technology, in-line UV disinfection, multi-stage RO membrane filtration, built-in TDS Controller, pH balancer, vertical LED indicator cluster, and a chrome dispenser tap with water-level sight glass.',
+    specs: [
+      { label: 'Purification Technology', val: 'Multi-Stage RO + In-Line UV + TDS Controller' },
+      { label: 'Copper Enrichment', val: '3-in-1 Active Copper Cartridge Technology' },
+      { label: 'pH Balance', val: 'Alkaline Mineral & pH Balancer Cartridge' },
+      { label: 'Display & Alerts', val: 'Vertical LED Status Cluster (Power, Purification, Tank Full)' },
+      { label: 'Storage Tank', val: '10 Litres Food-Grade Antibacterial Tank with Level Sight' },
+      { label: 'Cabinet Design', val: 'Arctic White with Snowflake Motifs & Transparent Chevron Canopy' },
+      { label: 'Dispenser Faucet', val: 'Heavy Chrome Metallic Tap with Blue Accent Ring' },
+      { label: 'Source Compatibility', val: 'Borewell, Tanker & Municipal Water (Up to 2,000 PPM TDS)' }
+    ],
+    features: [
+      'Active Copper Technology enriches purified drinking water with essential copper ions for improved digestion and immunity',
+      'In-line UV disinfection chamber sterilizes 99.9% of harmful bacteria, viruses, and microbial cysts',
+      'Integrated TDS Controller allows precise adjustment of natural essential minerals for sweet-tasting water',
+      'pH balancer maintains optimal alkaline equilibrium for daily household health and hydration',
+      'Stunning transparent upper hood with chrome chevron styling reveals genuine high-grade internal filter cartridges',
+      'Large food-grade tank with front vertical sight glass lets you view stored water volume at a glance'
+    ],
+    applications: ['Modern Modular Kitchens', 'Residential Apartments', 'Villas & Bungalows', 'Home Pantries'],
+    imageSrc: '/product_alupro_active_copper_ro.png'
   }
 };
 
