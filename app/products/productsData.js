@@ -11,22 +11,22 @@ export const productsData = {
     category: 'domestic',
     tag: '5-Stage RO System',
     price: '₹10,000',
-    desc: '5-Stage Reverse Osmosis water purifier with 9L storage, 15 LPH flow rate, LED indicators, and power-saving auto cut-off.',
-    fullDesc: 'Aqua Strom RO Water Purifier System delivers clean and safe drinking water through advanced 5-Stage Reverse Osmosis (RO) filtration. Engineered with a 9-litre transparent storage tank, high-efficiency 15 LPH purification capacity, intuitive LED status indicators, and an energy-saving auto cut-off system that prevents dry running and power wastage.',
+    desc: '5-Stage Reverse Osmosis (RO) water purifier with 9L storage, 15 LPH capacity, LED indicators, and auto cut-off power saver.',
+    fullDesc: 'Aqua Strom Water Purifier with Reverse Osmosis (RO) Filtration delivers safe and pure drinking water through an advanced 5-Stage Purification system. Designed with a transparent 9-litre storage tank, high-efficiency purification capacity of 15 litres per hour, intuitive LED status indicators, and an intelligent electricity power saver auto cut-off system.',
     specs: [
-      { label: 'Storage Capacity', val: '9 Litres Storage Capacity' },
-      { label: 'Purification Technology', val: '5-Stage Reverse Osmosis (RO)' },
-      { label: 'Purification Capacity', val: '15 Litres / Hour' },
-      { label: 'Indicators', val: 'LED Status Indicators' },
-      { label: 'Power Saving', val: 'Auto Cut-Off System' },
-      { label: 'Design', val: 'Transparent Blue Tank with White Cabinet' }
+      { label: 'Purification Technology', val: '5-Stage Reverse Osmosis (RO) System' },
+      { label: 'Storage Capacity', val: 'Storage Capacity up to 9 Litres' },
+      { label: 'Purification Rate', val: '15 Litres Per Hour (Model Dependent)' },
+      { label: 'Status Display', val: 'Built-in LED Indicator' },
+      { label: 'Power Management', val: 'Electricity Power Saver with Auto Cut-off' },
+      { label: 'Cabinet Design', val: 'Transparent Smoked Tank with Premium Dual-Tone Body' }
     ],
     features: [
-      '5-Stage Reverse Osmosis filtration eliminates dissolved impurities, heavy metals, and microbes',
-      'Transparent 9-litre food-grade storage container for easy water level monitoring',
-      'High-efficiency flow capacity of up to 15 Litres per Hour',
-      'Built-in LED indicators show live power and purification status',
-      'Electricity power saver with intelligent auto cut-off function'
+      'Advanced 5-Stage Reverse Osmosis (RO) filtration removes dissolved impurities, heavy metals & microbes',
+      'Food-grade transparent storage tank with up to 9 Litres holding capacity',
+      'High-speed purification capacity delivering up to 15 Litres per hour',
+      'Intuitive multi-color LED indicators for live purification and tank level monitoring',
+      'Smart electricity power saver technology with automatic cut-off when the tank is full'
     ],
     applications: ['Home Kitchens', 'Residential Apartments', 'Villas', 'Small Offices'],
     imageSrc: '/product_aqua_strom_ro.png',
