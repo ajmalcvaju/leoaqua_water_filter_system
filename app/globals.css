@@ -3845,10 +3845,13 @@ footer {
 /* ==========================================================================
    PROVEN TRACK RECORD - TRUSTED WATER SOLUTIONS ACROSS KERALA
    ========================================================================== */
+/* ==========================================================================
+   PROVEN TRACK RECORD - TRUSTED WATER SOLUTIONS ACROSS KERALA
+   ========================================================================== */
 .stats-numbers-section {
-  background: #e0f2fe;
-  background: radial-gradient(circle at 50% 20%, #eff6ff 0%, #dbeafe 60%, #bfdbfe 100%);
-  padding: 4.5rem 0;
+  background: #f0f9ff;
+  background: linear-gradient(180deg, #e0f2fe 0%, #f0f9ff 100%);
+  padding: 5rem 0;
   position: relative;
   overflow: hidden;
 }
@@ -3863,30 +3866,33 @@ footer {
 }
 
 .stats-track-pill {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   background: #bae6fd;
   color: #0369a1;
-  font-size: 0.75rem;
+  font-size: 0.72rem;
   font-weight: 800;
-  letter-spacing: 1.5px;
+  letter-spacing: 2px;
   text-transform: uppercase;
-  padding: 0.35rem 1.1rem;
+  padding: 0.4rem 1.4rem;
   border-radius: 9999px;
-  margin-bottom: 0.85rem;
+  margin-bottom: 1rem;
   border: 1px solid #7dd3fc;
+  box-shadow: 0 2px 8px rgba(2, 132, 199, 0.12);
 }
 
 .stats-track-title {
-  font-size: 2.2rem;
+  font-size: 2.35rem;
   font-weight: 900;
-  color: #0c4a6e;
+  color: #082f49;
   letter-spacing: -0.5px;
   margin: 0 0 1rem 0;
   font-family: var(--font-heading), 'Outfit', sans-serif;
 }
 
 .stats-track-bar {
-  width: 50px;
+  width: 48px;
   height: 4px;
   background: #0284c7;
   border-radius: 9999px;
@@ -3895,7 +3901,9 @@ footer {
 .stats-numbers-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  gap: 1.5rem;
+  gap: 1.6rem;
+  max-width: 1240px;
+  margin: 0 auto;
 }
 
 .stat-number-card {
@@ -3904,36 +3912,39 @@ footer {
   align-items: center;
   text-align: center;
   background: #ffffff;
-  border: 1px solid rgba(224, 242, 254, 0.8);
-  border-radius: 20px;
-  padding: 2.5rem 1.5rem;
-  box-shadow: 0 10px 25px -5px rgba(2, 132, 199, 0.08), 0 8px 10px -6px rgba(2, 132, 199, 0.04);
-  transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.3s ease;
+  border: 1px solid #e0f2fe;
+  border-radius: 24px;
+  padding: 2.8rem 1.6rem;
+  box-shadow: 0 12px 30px -4px rgba(2, 132, 199, 0.08), 0 4px 12px -2px rgba(2, 132, 199, 0.04);
+  transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.35s ease, border-color 0.35s ease;
+  position: relative;
 }
 
 .stat-number-card:hover {
   transform: translateY(-8px);
-  box-shadow: 0 20px 35px -8px rgba(2, 132, 199, 0.16), 0 10px 15px -3px rgba(2, 132, 199, 0.08);
+  border-color: #bae6fd;
+  box-shadow: 0 20px 40px -8px rgba(2, 132, 199, 0.18), 0 8px 16px -4px rgba(2, 132, 199, 0.08);
 }
 
 .stat-icon-circle {
-  width: 58px;
-  height: 58px;
-  border-radius: 14px;
+  width: 60px;
+  height: 60px;
+  border-radius: 18px;
   background: #0284c7;
+  background: linear-gradient(135deg, #0284c7 0%, #0369a1 100%);
   border: none;
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.6rem;
   color: #ffffff;
-  box-shadow: 0 6px 16px rgba(2, 132, 199, 0.3);
-  transition: transform 0.3s ease, background 0.3s ease;
+  box-shadow: 0 8px 20px rgba(2, 132, 199, 0.28);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .stat-number-card:hover .stat-icon-circle {
-  transform: scale(1.08);
-  background: #0369a1;
+  transform: scale(1.08) rotate(3deg);
+  box-shadow: 0 12px 24px rgba(2, 132, 199, 0.38);
 }
 
 .stat-icon-circle svg {
@@ -3943,27 +3954,33 @@ footer {
 }
 
 .stat-number {
-  font-size: 2.8rem;
+  font-size: 2.9rem;
   font-weight: 900;
-  color: #0c4a6e;
-  line-height: 1;
-  margin-bottom: 0.6rem;
+  color: #00c0fa;
+  color: #0284c7;
+  background: linear-gradient(135deg, #00b4d8 0%, #0077b6 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  line-height: 1.1;
+  margin-bottom: 0.75rem;
   font-family: var(--font-heading), 'Outfit', sans-serif;
-  letter-spacing: -0.5px;
+  letter-spacing: -1px;
 }
 
 .stat-title-label {
-  font-size: 1.05rem;
+  font-size: 1.08rem;
   font-weight: 800;
   color: #0f172a;
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.35rem;
   font-family: var(--font-heading), 'Outfit', sans-serif;
+  letter-spacing: -0.2px;
 }
 
 .stat-sub-label {
-  font-size: 0.82rem;
+  font-size: 0.85rem;
   color: #64748b;
   font-weight: 500;
+  letter-spacing: 0.1px;
 }
 
 @media (max-width: 992px) {

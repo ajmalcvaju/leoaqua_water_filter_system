@@ -217,7 +217,7 @@ export default function About() {
                   <path d="M10 18h4"/>
                 </svg>
               </div>
-              <div className="stat-number"><CounterNumber target={1000} /></div>
+              <div className="stat-number"><CounterNumber target={300} /></div>
               <div className="stat-title-label">Commercial Projects</div>
               <div className="stat-sub-label">Hotels, Hospitals & Offices</div>
             </div>
@@ -230,7 +230,7 @@ export default function About() {
                   <polyline points="9 22 9 12 15 12 15 22"/>
                 </svg>
               </div>
-              <div className="stat-number"><CounterNumber target={6900} /></div>
+              <div className="stat-number"><CounterNumber target={700} /></div>
               <div className="stat-title-label">Residential Projects</div>
               <div className="stat-sub-label">Villas & Apartments</div>
             </div>
@@ -245,7 +245,7 @@ export default function About() {
                   <path d="M16 3.13a4 4 0 0 1 0 7.75"/>
                 </svg>
               </div>
-              <div className="stat-number"><CounterNumber target={12000} /></div>
+              <div className="stat-number"><CounterNumber target={1000} /></div>
               <div className="stat-title-label">Happy Customers</div>
               <div className="stat-sub-label">Trusted Across Kerala</div>
             </div>
